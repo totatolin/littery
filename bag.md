@@ -1,0 +1,1 @@
+Bag is a kind of data structures, which is a set of elements you don't need to consider its order and it doesn't support to delete an element. All you need to care about is its sum, we can use it when we just want to compute all the elements' sum or average value.
