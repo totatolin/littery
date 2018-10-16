@@ -1,2 +1,1 @@
 Enumeration is a kind of data type, rather than data structure. It is a complete, ordered listing of all the items in a collection(reference from wiki).
-test
